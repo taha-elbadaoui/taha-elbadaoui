@@ -38,11 +38,6 @@
 
 > **[smart-traffic-rl](https://github.com/taha-elbadaoui/smart-traffic-rl)** — Multi-agent **reinforcement learning** for adaptive traffic-signal control, benchmarked on a **real Cologne network** with real activity-based demand (SUMO · PyTorch · sumo-rl). A classical max-pressure controller cut **simulated** rush-hour waiting time **~78%** vs the city's real fixed-time signals.
 
-### 🚀 More projects
-
-- 📖 **[Manhwa Reader](https://github.com/taha-elbadaoui/Manhwa-Reader)** — Full-stack digital comic reader with an **AI-powered OCR translation** module that translates text directly on the page (Tesseract.js).
-- ✈️ **Gestion de Voyages** — Travel-management application built in **Java** (OOP).
-
 ### 📊 GitHub stats
 
 <p align="center">
