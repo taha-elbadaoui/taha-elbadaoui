@@ -13,7 +13,7 @@
 - 🎓 Engineering student in **Advanced Software Engineering for Digital Services (ASEDS)** at **INPT, Rabat** 🇲🇦
 - 🤖 Focused on **reinforcement learning & multi-agent systems** — building and benchmarking **traffic-signal control** on real city networks with SUMO
 - 🌐 Also build **full-stack web apps**, including AI-powered features (in-page OCR translation)
-- 📫 **tahaelbadaoui48@gmail.com**
+- 📫 **taha.elbadaoui.pro@gmail.com**
 
 ### 🛠️ Tech I work with
 
